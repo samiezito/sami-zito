@@ -8,6 +8,8 @@ I am a graduate student working toward my Master of Science in Technical Communi
 
 ## Projects
 
+*[Creative Writing Calendar](/creative-writing-calendar/README.md)
+
 * [Laundry Guide](/laundry-guide/README.md)
   
 * [Coalition Development Course](coalition-development-course/README.md)
