@@ -8,7 +8,7 @@ I am a graduate student working toward my Master of Science in Technical Communi
 
 ## Projects
 
-* [Creative Writing Calendar](/creative-writing-calendar/README.md)
+* [Creative Writing Calendar](./creativeWritingCalendar.md)
 
 * [Laundry Guide](/laundry-guide/README.md)
   
