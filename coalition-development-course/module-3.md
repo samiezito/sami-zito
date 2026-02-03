@@ -23,7 +23,7 @@ Learning Outcomes:
   
   * **Feedback**: Create a feedback loop between branches and levels of a coalition. This can also increase engagement among community members. Community members can provide their input on the direction of the coalition and what goals they want to achieve.
   
-* **Cohesion**: Having a vision and mission statement helps orient and guide your coalition. This also creates a shared goal for both leadership and members which creates organizational cohesion. Provide members and leadership with rules and bylaws.
+* **Cohesion**: Having a vision and mission statement helps orient and guide your coalition. This also creates a shared goal for both leadership and members, which creates organizational cohesion. Provide members and leadership with rules and bylaws.
 
 * **Trust**: Members need to have trust in the organization and its leadership. We will cover strategies for building trust in another section.
 
@@ -37,17 +37,17 @@ Learning Outcomes:
 * **Building trust**
   * Leadership in a coalition should remain stable or ensure that power transitions are smooth. Frequent leadership changes can cause unrest, disrupting a coalition's objectives.
    * Historical racial divides can also be a source of distrust. This highlights the need for diverse representation within a coalition
-  * Represent all sectors of the community in policy meetings. Do not exclude any group, this creates distrust.
+  * Represent all sectors of the community in policy meetings. Do not exclude any group; this creates distrust.
   
 * **Bridging Mechanisms**: These are people who help build trust within a coalition. These people are persuasive, charismatic, and caring, and work to bridge divides between community members. They unite and orient multi-racial or diverse groups.
 
 ## Section 3: Diversity, Equity, and Inclusion in Coalitions (5 min)
 
-**Overview**: A coalition needs to represent a diverse group of individuals; however there are some common mistakes that need to be avoided.
+**Overview**: A coalition needs to represent a diverse group of individuals; however, there are some common mistakes that need to be avoided.
 
 ### Key Terms and Topics
 
-* **Representation**: Include all groups in coalition efforts and communications and use data-based strategies to boost engagement. This also helps capture a community’s different perspectives
+* **Representation**: Include all groups in coalition efforts and communications, and use data-based strategies to boost engagement. This also helps capture a community’s different perspectives
 * **Mistakes to avoid**
     * No one should be the “token” or sole representative of an identity. This can reinforce negative stereotypes.
     * Pro-diversity messaging is viewed as unfair by the majority and condescending to the minority. Instead, base messaging around shared goals/values and reducing disadvantages for all. Highlight groups progressing towards the coalition’s goal and offer concrete actions to promote change.

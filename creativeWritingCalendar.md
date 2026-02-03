@@ -6,7 +6,7 @@ Along with my two teammates, we tackled this project in two main sprints. In spr
 
 ## Tasks Completed
 
-During this project, I thought of myself as the designer. I was responsible for the overall design of the final spreadsheet and the design and creation of the Google Calendar. I wanted to ensure the spreadsheet was relatively simple to use for students, but also that it could be used in view mode (so students do not make any accidental edits). A teammate wrote the instructions for the spreadsheet, but I edited them for simplicity and accuracy. I also served as a project manager and was responsible for creating, assigning, and updating ClickUp tickets.
+During this project, I thought of myself as the designer. I was responsible for the overall design of the final spreadsheet and the design and creation of the Google Calendar. I wanted to ensure the spreadsheet was relatively simple to use for students and could be used in view mode (so students do not make any accidental edits). A teammate wrote the instructions for the spreadsheet, but I edited them for simplicity and accuracy. I also served as a project manager and was responsible for creating, assigning, and updating ClickUp tickets.
 
 My partners were responsible for researching relevant opportunities and adding the relevant information into our spreadsheet database.
 
