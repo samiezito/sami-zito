@@ -9,11 +9,11 @@ My work focuses on:
 
 ## Featured Work
 - [eRezLife User Guides](./eRezLifeUserGuides.md)
-- Care Share Usability Study → Documentation Insights
-- [Another strong project]
+- [Care Share Usability Study & Documentation Insights](./careShareUsability.md)
+- [NC State Laundry Structured Guides](laundryGuides.md)
 
 Methods:
-User research · Task analysis · Content structuring · Usability testing
+User research · Task analysis · Content structuring · Usability testing · Audience-based content design
 
 <!-- ## Projects
 
