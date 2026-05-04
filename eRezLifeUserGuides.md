@@ -29,3 +29,6 @@ Existing documentation was inconsistent, difficult to navigate, and not aligned 
 - Improved usability and learnability
 - Reduced onboarding friction
 
+## Program Proposal Guide
+![Program Proposal User Guide, page 1](./assets/eRezProgram_p1.jpeg)
+![Program Proposal User Guide, page 2](./assets/eRezProgram_p2.jpeg)

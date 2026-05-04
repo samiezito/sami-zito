@@ -1,12 +1,21 @@
-# Sami Zito
+# Hi, I’m Sami Zito - Technical Writer
 
-Welcome to my portfolio!
+I create user-centered documentation that improves usability, learnability, and task success.
 
-## About Me
+My work focuses on:
+- task-based documentation
+- usability-informed content design
+- information architecture
 
-I am a graduate student working toward my Master of Science in Technical Communication at NC State. I am on track to graduate in May 2026. I have experience in software documentation for a Saas company, information architecture, data analysis, and content creation. This repository showcases my skills and past projects.
+## Featured Work
+- [eRezLife User Guides](./eRezLifeUserGuides.md)
+- Care Share Usability Study → Documentation Insights
+- [Another strong project]
 
-## Projects
+Methods:
+User research · Task analysis · Content structuring · Usability testing
+
+<!-- ## Projects
 
 * [eRezLife User Guides](./eRezLifeUserGuides.md)
   
@@ -26,7 +35,10 @@ View my writing samples in my [Google Drive](https://drive.google.com/drive/fold
 
 * [Howling Cow Documentary](/visual-media/howling-cow.md)
 
-* [Welcome to New York](/visual-media/welcome-to-new-york.md)
+* [Welcome to New York](/visual-media/welcome-to-new-york.md) -->
 
 ## Contact
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sami-zito/)
+
+Contact me at samiezito@gmail.com
