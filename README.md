@@ -8,6 +8,8 @@ I am a graduate student working toward my Master of Science in Technical Communi
 
 ## Projects
 
+* [eRezLife User Guides](./eRezLifeUserGuides.md)
+  
 * [Creative Writing Calendar](./creativeWritingCalendar.md)
 
 * [Laundry Guide](/laundry-guide/README.md)
