@@ -61,7 +61,7 @@ Updates included:
 ## Deliverables
 
 ### Original Guides
-- [Communal Laundry Guide](../laundry-guide/out/communal.pdf)  
+- [Communal Laundry Guide](laundry-guide/out/communal.pdf)  
 - [Apartment Laundry Guide](../laundry-guide/out/stackable.pdf)  
 - [Off-Campus Laundry Guide](../laundry-guide/out/communal.pdf)  
 
