@@ -66,7 +66,7 @@ Updates included:
 - [Off-Campus Laundry Guide](laundry-guide/out/communal.pdf)  
 
 ### Redesigned Guide
-- [Figma Redesign](../laundry-guide/out/Laundry-manual-revisions.pdf)  
+- [Figma Redesign](laundry-guide/out/Laundry-manual-revisions.pdf)  
 
 
 ## Skills Demonstrated
