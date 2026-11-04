@@ -62,8 +62,8 @@ Updates included:
 
 ### Original Guides
 - [Communal Laundry Guide](laundry-guide/out/communal.pdf)  
-- [Apartment Laundry Guide](../laundry-guide/out/stackable.pdf)  
-- [Off-Campus Laundry Guide](../laundry-guide/out/communal.pdf)  
+- [Apartment Laundry Guide](laundry-guide/out/stackable.pdf)  
+- [Off-Campus Laundry Guide](laundry-guide/out/communal.pdf)  
 
 ### Redesigned Guide
 - [Figma Redesign](../laundry-guide/out/Laundry-manual-revisions.pdf)  
